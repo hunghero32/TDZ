@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="cTqyGWMP">document.location.replace("https:\/\/www.bing.com\/maps\/default.aspx?v=2&pc=FACEBK&mid=8100&where1=21.18264949687\u00252C+105.59709343173&FORM=FBKPL1&mkt=en-US");</script></body></html>
